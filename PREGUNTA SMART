@@ -1,0 +1,16 @@
+PROBLEMÁTICA:  Acutalmente la cartera de la organización representa una gran cantidad de ingresos retenidos y requiere fortalecer sus estrategias de cobro para reducir la misma. La empresa actualmente realiza scoring de sus clientes en base a su historico de cartera.
+
+SOLUCIÓN: La problemática puede ser atacada desde la ciencia de datos al utilizar el scoring realizado actualmente a sus clientes para predecir el comportamiento de cartera los mismos.
+
+
+PREGUNTA SMART: "¿Cómo se puede utilizar el scoring actual basado en el historial de cartera para predecir con un 85% de precisión el número de clientes que incrementarán su deuda en los próximos tres meses, permitiendo así implementar estrategias preventivas antes del final del próximo trimestre?"
+
+DESGLOCE COMPONENTES PREGUNTA
+
+Específica: Se enfoca en predecir el número de clientes que incrementarán su cartera.
+Medible: La precisión deseada es del 85%.
+Accionable: Se basa en el scoring actual de la empresa.
+Relevancia: Permite implementar estrategias preventivas, cruciales para la gestión de riesgos.
+Temporalidad: El objetivo es lograr esta predicción antes del final del próximo trimestre.
+Tipo de análisis: predictivo
+
